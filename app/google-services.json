@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510219719638",
+    "firebase_url": "https://letschat-685e1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "letschat-685e1",
+    "storage_bucket": "letschat-685e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510219719638:android:3b2f6072f9336a300b0a77",
+        "android_client_info": {
+          "package_name": "com.aidaraly.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510219719638-2hgvumpdo830992hkkd827ac2tr2v4an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipgg7-3g_xKVx0zfWmM2J4dLTwPaxfFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510219719638-2hgvumpdo830992hkkd827ac2tr2v4an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
